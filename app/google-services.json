@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874480886008",
+    "firebase_url": "https://dintnotifications.firebaseio.com",
+    "project_id": "dintnotifications",
+    "storage_bucket": "dintnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874480886008:android:05cbba45e5302730",
+        "android_client_info": {
+          "package_name": "com.example.kiran.dint_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874480886008-jh73eff90e5j1r9h312je61ic6dr6q2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiran.dint_notifications",
+            "certificate_hash": "618b318dc54f04e85ca99930e524c6c0a501e808"
+          }
+        },
+        {
+          "client_id": "874480886008-6ktuil5tl0lhlmib04eljs2n152unmlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNUSyKKh1cYnnB5QpBYVy4DetqDWfktw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874480886008-6ktuil5tl0lhlmib04eljs2n152unmlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
